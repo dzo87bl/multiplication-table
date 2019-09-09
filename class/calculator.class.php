@@ -2,7 +2,7 @@
 
     /**
 	 * @author Nikola Tomic - dzo87bl
-	 * @copyright 2018
+	 * @copyright 2019
 	 */
 
     class multiplication_table {
